@@ -31,8 +31,8 @@ css/bootstrap.min.css
 
   
 ## Database Information
-database.default.hostname = localhost
-database.default.database = expense_tracker
-database.default.username = root
-database.default.password =
-database.default.DBDriver = MySQLi
+- database.default.hostname = localhost
+- database.default.database = expense_tracker
+- database.default.username = root
+- database.default.password =
+- database.default.DBDriver = MySQLi
